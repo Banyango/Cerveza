@@ -4,7 +4,7 @@
 
 Command line tool for converting CSV files into JSON
 
-[Website](http://www.banyango.com/cerveza/) | [![Build Status](https://travis-ci.org/Banyango/Cerveza.svg?branch=master)](https://travis-ci.org/Banyango/Cerveza)
+[Website](http://www.banyango.com/Cerveza/) | [![Build Status](https://travis-ci.org/Banyango/Cerveza.svg?branch=master)](https://travis-ci.org/Banyango/Cerveza)
 
 ## Usage
 ```
