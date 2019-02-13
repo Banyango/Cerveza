@@ -18,7 +18,7 @@ Command line tool for converting CSV files into JSON
 
 ## Release
 
-[Download](http://www.banyango.com/cerveza/releases)
+[Download](https://github.com/Banyango/Cerveza/releases/tag/1.0)
 
 ## Build from source
 
