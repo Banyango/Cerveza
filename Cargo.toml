@@ -1,5 +1,5 @@
 [package]
-name = "rust-csv-to-json"
+name = "cerveza"
 version = "0.1.0"
 authors = ["Kyle Reczek <kyle@banyango.com>"]
 edition = "2018"
